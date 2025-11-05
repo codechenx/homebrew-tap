@@ -2,15 +2,25 @@
 
 ## How do I install these formulae?
 
-`brew install codechenx/tap/<formula>`
+`brew install codechenx/tap/codechenx-tv`
 
-Or `brew tap codechenx/tap` and then `brew install <formula>`.
+Or `brew tap codechenx/tap` and then `brew install codechenx-tv`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "codechenx/tap"
-brew "<formula>"
+brew "codechenx-tv"
+```
+
+## codechenx-tv
+
+A fast, feature-rich CSV/TSV/delimited file viewer for the command-line.
+
+To install:
+
+```bash
+brew install codechenx/tap/codechenx-tv
 ```
 
 ## Documentation
