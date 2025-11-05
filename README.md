@@ -1,5 +1,5 @@
 
-## How do I install these formulae?
+## How do I install tv?
 
 ```bash
 brew install codechenx/tap/codechenx-tv
