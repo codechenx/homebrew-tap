@@ -12,7 +12,7 @@ class CodechenxFtv < Formula
   # end
 
   def install
-    bin.install "ftv"
+    bin.install "FastTableViewer" => "ftv"
   end
 
   test do
