@@ -2,14 +2,14 @@
 ## How do I install tv?
 
 ```bash
-brew install codechenx/tap/codechenx-tv
+brew install codechenx/tap/codechenx-ftv
 ```
 
 Or
 
 ```bash
 brew tap codechenx/tap
-brew install codechenx-tv
+brew install codechenx-ftv
 ```
 
 ## Documentation
