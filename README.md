@@ -1,4 +1,4 @@
-Tap this homebrew
+# Tap this homebrew
 ```bash
 brew tap codechenx/tap
 ```
