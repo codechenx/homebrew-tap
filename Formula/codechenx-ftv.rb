@@ -1,4 +1,4 @@
-class CodechenxTv < Formula
+class CodechenxFtv < Formula
   desc "Fast, feature-rich CSV/TSV/delimited file viewer for the command-line"
   homepage "https://github.com/codechenx/FastTableViewer"
   url "https://github.com/codechenx/FastTableViewer/releases/download/v0.8.0/tv_0.8.0_Darwin_arm64.tar.gz"
