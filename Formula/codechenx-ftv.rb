@@ -1,8 +1,8 @@
 class CodechenxFtv < Formula
   desc "Fast, feature-rich CSV/TSV/delimited file viewer for the command-line"
   homepage "https://github.com/codechenx/FastTableViewer"
-  url "https://github.com/codechenx/FastTableViewer/releases/download/v0.8.0/tv_0.8.0_Darwin_arm64.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  url "https://github.com/codechenx/FastTableViewer/releases/download/v0.8/FastTableViewer_0.8_Darwin_arm64.tar.gz"
+  sha256 "ffa5834ad97149d0d9761107e603be0ceea494db54f62352c22563586a11e779"
   license "Apache-2.0"
 
   # Additional dependency
