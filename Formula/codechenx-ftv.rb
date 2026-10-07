@@ -1,28 +1,28 @@
 class CodechenxFtv < Formula
   desc "Fast, feature-rich CSV/TSV/delimited file viewer for the command-line"
   homepage "https://github.com/codechenx/FastTableViewer"
-  version "0.9.1"
+  version "0.9.2"
   license "Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.1/FastTableViewer_0.9.1_Darwin_arm64.tar.gz"
-      sha256 "d2bf86bef5216dc0b939a930edb1c6f353596f31131797ad12bcb4b747d5e03b"
+      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.2/FastTableViewer_0.9.2_Darwin_arm64.tar.gz"
+      sha256 "2fc7810d2e453f63694792799fcfce3b3e6f304f7d4bac0cb9c7890cca00d259"
     end
     on_intel do
-      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.1/FastTableViewer_0.9.1_Darwin_x86_64.tar.gz"
-      sha256 "6d652d333684032a9d47e2f29e977c968c1395f8df636a0ff968f04a0422f9e9"
+      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.2/FastTableViewer_0.9.2_Darwin_x86_64.tar.gz"
+      sha256 "2bed74737e4a4d72fdef611c35dc1c6a9b2142dcb438e0e93f2c188aece7b8a4"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.1/FastTableViewer_0.9.1_Linux_arm64.tar.gz"
-      sha256 "44d9d11f57c546e836124bb7fa55f61cd37b91b633db13e628c5a662b3678767"
+      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.2/FastTableViewer_0.9.2_Linux_arm64.tar.gz"
+      sha256 "bb0b6b159a5a2c510fd2e51c005a5eb42229fdb3859b435f4b24736efd8135f8"
     end
     on_intel do
-      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.1/FastTableViewer_0.9.1_Linux_x86_64.tar.gz"
-      sha256 "759702d8139a1f09a580e38919a2e7e739aa3926cd38aeb62009304067b8c5c3"
+      url "https://github.com/codechenx/FastTableViewer/releases/download/v0.9.2/FastTableViewer_0.9.2_Linux_x86_64.tar.gz"
+      sha256 "7d78c3282558a09462989a88b68dad7e0f6958691f513bff9fec7350766aef48"
     end
   end
 
